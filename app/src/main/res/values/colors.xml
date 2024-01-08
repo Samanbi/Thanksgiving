@@ -9,4 +9,15 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
+    <color name="color_background">#EDF1F4</color>
+    <color name="color_box">#FFFFFF</color>
+    <color name="color_text">#343434</color>
+
+
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorSecondary">#FF4081</color>
+    <color name="colorSecondaryDark">#FF0051</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+
 </resources>

@@ -3,5 +3,10 @@
     <style name="Base.Theme.Thanksgiving" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+        <item name="colorPrimary">#424D8E</item>
+
+        <item name="android:statusBarColor">#252525</item>
+        <item name="android:textColor" >#CCCCCC</item>
     </style>
 </resources>
